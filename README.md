@@ -1,6 +1,20 @@
 # Been BOO-ed Response
 A response for the chain-letter variety of the "You've Been BOO-ed" message.
 
+![](I-dont-do-chain-letters.png)
+
+
+## Bottom Line Up Front
+
+Here are the principal files.  ("These are files you're looking for.")
+
+- The PDF rendering of the response: [Response-to-Getting-Booed.pdf](Response-to-Getting-Booed.pdf)
+- Its source file: [Response-to-Getting-Booed.pptx](Response-to-Getting-Booed.pptx)
+
+You are free to copy or update this work as you will; so please do.
+
+The next sections of this README are the TL;DR parts.
+  
 ## Background
 
 OK, I guess I'm a little late to the party (October 2015) on this one, but apparently people at (at least) workplaces all over the country are anonymously leaving little Halloween notes with treats for other people.  I received one of these notes this year, accompanied with some yummy cookies.  Initially, I thought, "Gee, this is a nice thought. Sort of like Secret Santa."  But then, in the last half of the note, the bomb drops.  *It's a stupid chain letter!*
@@ -60,7 +74,7 @@ But I also wanted to write another note in response which took a stance squarely
 
 So, since the chain letter directed the victim recipient to "post the phantom on your cube until Halloween", I *will* post something on my cube until Halloween; not the phantom per se, but my own written response.
 
-The following is the text of my response, but please find in this repo a PDF and a Powerpoint file (source) which contain the rendering I posted on my cube.  (And please feel free to copy or "plagarize" it, if you want to use it for your own purposes.  No problems here.)
+The following is the text of my response, but please find in this repo [a PDF](Response-to-Getting-Booed.pdf) and [a Powerpoint file (source)](Response-to-Getting-Booed.pptx) which contain the rendering I posted on my cube.  (And please feel free to copy or "plagarize" it, if you want to use it for your own purposes.  No problems here.)
 
 > My Response to GETTING BOOED
 > 
