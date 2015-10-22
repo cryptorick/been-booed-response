@@ -1,11 +1,11 @@
 # Been BOO-ed Response
-A response for the chain letter variety of the "You've Been BOO-ed" message.
+A response for the chain-letter variety of the "You've Been BOO-ed" message.
 
 ## Background
 
-OK, I guess I'm a little late to the party (October 2015) on this one, but apparently people at (at least) workplaces all over the country are anonymously leaving little Halloween notes with treats for other people.  Initially, I thought, "Gee, this is a nice thought. Sort of like Secret Santa."  But then, in the last half of the note, the bomb drops.  *It's a stupid chain letter!*
+OK, I guess I'm a little late to the party (October 2015) on this one, but apparently people at (at least) workplaces all over the country are anonymously leaving little Halloween notes with treats for other people.  I received one of these notes this year, accompanied with some yummy cookies.  Initially, I thought, "Gee, this is a nice thought. Sort of like Secret Santa."  But then, in the last half of the note, the bomb drops.  *It's a stupid chain letter!*
 
-Here's the content of my letter (which I noticed was a variant of other ones on the intertubes).
+Here's the content of the letter I receieved (which I noticed was a variant of other ones on the intertubes).
 
 ```
 Hello!  You've Just Been Boo'ed!!!! [sic]
@@ -48,7 +48,7 @@ Ah, a despicable chain letter!  So that's the nature of the thing!  I could pass
 > 
 >   3. The take the letter, a phantom and treat and deliver them to three cubes that do not have a phantom posted.
 
-I don't know about you but my first thought upon reading this was not "Yes, I must comply," said in a robotic voice, but instead, "NO!  You cretins must be stopped!"  :)
+I don't know about you but my first thought upon reading this was not "Yes, I must comply," said in a robotic voice, but instead, ***"NO!  This must be stopped!"***  :)
 
 ## The Response
 
