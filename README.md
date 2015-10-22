@@ -19,7 +19,7 @@ The next sections of this README are the TL;DR parts.
 
 OK, I guess I'm a little late to the party (October 2015) on this one, but apparently people at (at least) workplaces all over the country are anonymously leaving little Halloween notes with treats for other people.  I received one of these notes this year, accompanied with some yummy cookies.  Initially, I thought, "Gee, this is a nice thought. Sort of like Secret Santa."  But then, in the last half of the note, the bomb drops.  *It's a stupid chain letter!*
 
-Here's the content of the letter I receieved (which I noticed was a variant of other ones on the intertubes).
+Here's the content of the letter I received (which I noticed was a variant of other ones on the "intertubes").
 
 ```
 Hello!  You've Just Been Boo'ed!!!! [sic]
@@ -35,7 +35,7 @@ May the only goblin that comes your way
 Be this neighborhood phantom you must give away.
 ```
 
-When I first read this -- this is only the first half by the way -- I thought that these were very nice sentiments and wishes.  I was touched.  Then I read the last phrase above -- "you must give away" -- and thought, "that's strange."  Then, reading the rest of it, the wheels really started to come off.
+When I first read this -- this is only the first half by the way -- I thought that these were very nice sentiments and wishes.  I was touched.  Then I read the last phrase above -- "you must give away" -- and thought, "That's strange."  Then, upon reading the rest of it, the wheels really started to come off.
 
 ```
 "T'is [sic] much better to give than to receive" goes the old verse
@@ -74,7 +74,7 @@ But I also wanted to write another note in response which took a stance squarely
 
 So, since the chain letter directed the victim recipient to "post the phantom on your cube until Halloween", I *will* post something on my cube until Halloween; not the phantom per se, but my own written response.
 
-The following is the text of my response, but please find in this repo [a PDF](Response-to-Getting-Booed.pdf) and [a Powerpoint file (source)](Response-to-Getting-Booed.pptx) which contain the rendering I posted on my cube.  (And please feel free to copy or "plagarize" it, if you want to use it for your own purposes.  No problems here.)
+The following is the text of my response, but please find in this repo [a PDF](Response-to-Getting-Booed.pdf) and [a Powerpoint file (source)](Response-to-Getting-Booed.pptx) which contain the rendering I posted on my cube.  (And please feel free to copy or "plagiarize" it, if you want to use it for your own purposes.  No problems here.)
 
 > My Response to GETTING BOOED
 > 
